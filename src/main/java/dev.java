@@ -5,5 +5,6 @@ public class dev {
 
         System.out.println("qqq");
         System.out.println("www");
+        System.out.println("ooo");
     }
 }
